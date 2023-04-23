@@ -1,2 +1,2 @@
 # hyperblog
-Un blog del carajo
+Un blog del carajos
